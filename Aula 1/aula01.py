@@ -1,0 +1,6 @@
+print('Olá, mundo!')
+print('Supernova no topo no rankig!')
+print('Niink')
+print('Rock Lee Melhor do mundo')
+print('Se nós morrer quem vai ser sua ref')
+print('Quem me proteja não dorme, vcs tenta eu apliquei a nove')
